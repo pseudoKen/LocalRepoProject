@@ -1,2 +1,1 @@
-No date is suppolied
-FileTime { seconds: 13377798835, nanos: 864771100 }"Hello, Git and Github!" 
+Hello, Git and GitHub!
